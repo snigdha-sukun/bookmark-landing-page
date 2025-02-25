@@ -14,6 +14,9 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -347,3 +350,7 @@ I want to practice using different CSS frameworks
 ## Author
 
 - Frontend Mentor - [@snigdha-sukun](https://www.frontendmentor.io/profile/snigdha-sukun)
+
+## Acknowledgments
+
+Leanred how to ceate the blue box effect below the image from this github [link](https://github.com/Kingoruovie/PROJECTS/blob/main/FRONTEND/bookmark-landing-page-master/src/styles/styles.css).
